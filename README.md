@@ -1,3 +1,3 @@
 # digital_voting_system
 
-https://vercel.com/svaruoks-projects/digital-voting-system
+https://digital-voting-system-opal.vercel.app
